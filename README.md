@@ -1,5 +1,4 @@
 # Simhastha_hackthon_project
-# 🚀 My React + Vite + Tailwind CSS Project
 
 The project(Frontend) is going to build in Vite[Vite](https://vitejs.dev/) and styled using [Tailwind CSS](https://tailwindcss.com/).
 
