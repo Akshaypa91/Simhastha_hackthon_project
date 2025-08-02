@@ -1,0 +1,11 @@
+git clone "this repo"
+
+create a branch of this and then work on that branch 
+
+for talwind css
+
+npm install 
+npm install -D tailwindcss@3 postcss autoprefixer
+npx tailwindcss init -p
+
+
